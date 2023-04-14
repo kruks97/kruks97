@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://0901.static.prezi.com/preview/v2/6fdh6ajcit6hspavtvthz7l7h36jc3sachvcdoaizecfr3dnitcq_3_0.png)
+[![MasterHead](https://0901.static.prezi.com/preview/v2/6fdh6ajcit6hspavtvthz7l7h36jc3sachvcdoaizecfr3dnitcq_3_0.png)]
 <h1 align="center">Hi 👋, I'm Krutika Mundada</h1>
 <h3 align="center">I am passionate Data Scientist from India.</h3>
 
