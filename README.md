@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ExcelR assignments.**
 
-- 🌱 I’m currently learning **Statistics, Python, SQL, Tableau.**
+- 🌱 I’m currently learning **Statistics, Python, SQL, Power BI.**
 
 - 💬 Ask me about **Descriptive statistics, Machine learning.**
 
